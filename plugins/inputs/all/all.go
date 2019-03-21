@@ -142,6 +142,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/unbound"
 	_ "github.com/influxdata/telegraf/plugins/inputs/varnish"
 	_ "github.com/influxdata/telegraf/plugins/inputs/vsphere"
+	_ "github.com/influxdata/telegraf/plugins/inputs/webapi"
 	_ "github.com/influxdata/telegraf/plugins/inputs/webhooks"
 	_ "github.com/influxdata/telegraf/plugins/inputs/win_perf_counters"
 	_ "github.com/influxdata/telegraf/plugins/inputs/win_services"
